@@ -1,6 +1,6 @@
 # TaxiFarePredictions
 
-In this project we aim to predicting the fare amount, Tip amount and Tip paid (yes/no) for a taxi ride in New York City given the pickup and dropoff locations and several other variables such as trip fare, distance, week of the day, time of the day (derived variables) etc. 
+In this project we aim to predict the fare amount, Tip amount and Tip paid (yes/no) for a taxi ride in New York City given the pickup and dropoff locations and several other variables such as trip fare, distance, week of the day, time of the day (derived variables) etc. 
 
 The approach begins with exploratory analysis but however in this case, the data is moderately clean and hence large amount of time is not vested in data cleaning. 
 But care has been taken to eliminate or modify erroneous records such as those which have tip amount more than fare amount or fare amount being negative etc. 
